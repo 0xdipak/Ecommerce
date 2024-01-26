@@ -19,4 +19,3 @@ const Header = () => {
 
 export default Header;
 
-// 1.6.18
